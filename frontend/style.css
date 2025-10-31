@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  gap: 50px;
+}
+
+.search-container {
+  background-color: gray;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+}
+
+.search-container > p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
